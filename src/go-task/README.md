@@ -1,3 +1,4 @@
+
 # Task (go-task)
 
 Installs Task, a task runner / simpler Make alternative. Works with 'Taskfile.yml'.
@@ -31,7 +32,6 @@ Installs Task, a task runner / simpler Make alternative. Works with 'Taskfile.ym
 ## References
 
 - Task: <https://taskfile.dev>
-
 
 ---
 
